@@ -232,6 +232,15 @@ This project is created for Van Jerson's portfolio and take-home exam submission
 - Facebook: [J.S0RIA](https://www.facebook.com/J.S0RIA)
 - Instagram: [@vandev016](https://www.instagram.com/vandev016/)
 
+## 🎯 Project Overview
+
+This project demonstrates modern web development practices and professional design implementation, showcasing:
+- Responsive design principles
+- Accessibility best practices
+- Performance optimization techniques
+- Modern CSS and JavaScript implementation
+- Professional UI/UX design patterns
+
 ---
 
 *Built with ❤️ for the UI/UX Engineer position application* 
